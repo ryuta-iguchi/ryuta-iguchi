@@ -1,10 +1,10 @@
-## About me
+# About me
 Hello! My name is Ryuta Iguchi.
 I was born in 2007 and am currently a high school student.
 
 I am studying to become a front-end engineer in the future.
 
-## My Tech Stack
+# My Tech Stack
 
 ### Programming Languages
 <div style="white-space:nowrap;">
@@ -39,3 +39,7 @@ I am studying to become a front-end engineer in the future.
   <img src="https://skillicons.dev/icons?i=instagram" title="Instagram">
   <img src="https://skillicons.dev/icons?i=discord" title="Discord">
 </div>
+
+# Contact
+- Instagram：191ryuta
+- Discord：ryuta_c2
