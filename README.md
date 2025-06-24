@@ -2,8 +2,6 @@
 Hello! My name is Ryuta Iguchi.
 I was born in 2007 and am currently a high school student.
 
-I am Japanese and not good at English.
-
 I am studying to become a front-end engineer in the future.
 
 ## My Tech Stack
