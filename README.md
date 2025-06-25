@@ -33,13 +33,6 @@ I am studying to become a front-end engineer in the future.
   <img src="https://github.com/user-attachments/assets/c498e855-1b91-4e90-95a9-d8aa96168e6c" width="50" title="Aseprite">
 </div>
 
-### Communication
-<div style="white-space:nowrap;">
-  <img src="https://skillicons.dev/icons?i=gmail" title="GMail">
-  <img src="https://skillicons.dev/icons?i=instagram" title="Instagram">
-  <img src="https://skillicons.dev/icons?i=discord" title="Discord">
-</div>
-
 # Contact
 - Instagram：191ryuta
 - Discord：ryuta_c2
