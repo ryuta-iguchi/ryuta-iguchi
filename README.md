@@ -1,32 +1,151 @@
-# About me
-Hello! My name is Ryuta Iguchi.
-I was born in 2007 and am currently a high school student.
+# Hi there 👋
+Hello! My name is Ryuta Iguchi. I was born in 2007 and am currently a high school student.
 
-I am studying to become a front-end engineer in the future.
+I'm studying to become a front-end engineer in the future.
 
-<br>
+Right now, I'm leading a team to develop a game as a surprise graduation project at my high school. As the director, I handle everything from design and planning to coding and code review. Since all of our members are new to development, I also focus on supporting and mentoring the team, making sure everyone can grow together.
 
-# Programming Languages
-|HTML|CSS|Lua|GDScript|Python|
-|:---:|:---:|:---:|:---:|:---:|
-|<img src="https://skillicons.dev/icons?i=html" title="HTML">|<img src="https://skillicons.dev/icons?i=css" title="CSS">|<img src="https://skillicons.dev/icons?i=lua" title="Lua">|<img src="https://github.com/user-attachments/assets/4fd6b754-08b6-4207-9c56-b7379d942a79" width="50" title="GDScript">|<img src="https://skillicons.dev/icons?i=py" title="Python">|
-|★★☆☆☆|★☆☆☆☆|★☆☆☆☆|★★★☆☆|★☆☆☆☆|
+After this project, I'm excited to start building web applications with TypeScript and to deepen my front-end skills even further!
 
 <br>
 
-# Frameworks / Libraries / Engines / Dev Tools / DB
-|Godot|Git|GitHub|AWS|
-|:---:|:---:|:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/0ed2bae2-19c2-44b7-b606-f2ec908ebee5" width="50" title="Godot">|<img src="https://skillicons.dev/icons?i=git" title="Git">|<img src="https://skillicons.dev/icons?i=github" title="GitHub">|<img src="https://skillicons.dev/icons?i=aws" title="AWS">|
-|★★☆☆☆|★★☆☆☆|★★★☆☆|★☆☆☆☆|
+# My Tech Stack 📚
+
+### Programming Languages
+
+<table>
+	<tr>
+		<th colspan="2">Skills</th>
+    <th>Description</th>
+    <th>Skill Levels</th>
+    <th>Experience</th>
+	</tr>
+	<tr>
+		<td width="60"><img src="https://skillicons.dev/icons?i=html"></td>
+		<td width="150">HTML</td>
+    <td width="300">Markup for structuring web pages.</td>
+    <td>★★☆☆☆</td>
+    <td width="400">Studied in junior high self-study and high school classes; learned only the basics.</td>
+	</tr>
+	<tr>
+		<td><img src="https://skillicons.dev/icons?i=css"></td>
+		<td>CSS</td>
+    <td>Stylesheet language for web design.</td>
+    <td>★☆☆☆☆</td>
+    <td>Learned basic styling alongside HTML, mainly at a surface level.</td>
+	</tr>
+  <tr>
+		<td><img src="https://skillicons.dev/icons?i=lua"></td>
+		<td>Lua</td>
+    <td>Lightweight scripting for embedded use.</td>
+    <td>★☆☆☆☆</td>
+    <td>Used for in-game programming in Stormworks.</td>
+	</tr>
+  <tr>
+		<td><img src="https://github.com/user-attachments/assets/4fd6b754-08b6-4207-9c56-b7379d942a79"></td>
+		<td>GDScript</td>
+    <td>Godot’s dedicated scripting language.</td>
+    <td>★★★☆☆</td>
+    <td>Used for game development in high school; my first full-fledged programming language.</td>
+	</tr>
+  <tr>
+		<td><img src="https://skillicons.dev/icons?i=py"></td>
+		<td>Python</td>
+    <td>Versatile language for many applications.</td>
+    <td>★☆☆☆☆</td>
+    <td>Briefly explored due to its similarity to GDScript, but never studied in depth.</td>
+	</tr>
+</table>
 
 <br>
 
-# Editors / Creation Tools
-|GIMP|Clip Studio Paint|DaVinci Resolve|Aseprite|Figma|Blender|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/ce57df73-68f5-475b-a480-06e78589b591" width="50" title="GIMP">|<img src="https://github.com/user-attachments/assets/7e2683e0-9a18-4a1e-a9ad-f1279ce1003c" width="50" title="Clip Studio Paint">|<img src="https://github.com/user-attachments/assets/2f0370b5-df7e-49bb-99f8-f5df1213bea4" width="50" title="DaVinci Resolve">|<img src="https://github.com/user-attachments/assets/c498e855-1b91-4e90-95a9-d8aa96168e6c" width="50" title="Aseprite">|<img src="https://skillicons.dev/icons?i=figma" title="Figma">|<img src="https://skillicons.dev/icons?i=blender" title="blender">|
-|★★★☆☆|★★★★☆|★★☆☆☆|★★★★☆|★☆☆☆☆|★☆☆☆☆|
+### Frameworks / Libraries / Engines / Dev Tools / DB
+
+<table>
+	<tr>
+		<th colspan="2">Skills</th>
+    <th>Description</th>
+    <th>Skill Levels</th>
+    <th>Experience</th>
+	</tr>
+	<tr>
+		<td width="60"><img src="https://github.com/user-attachments/assets/0ed2bae2-19c2-44b7-b606-f2ec908ebee5"></td>
+		<td width="150">Godot</td>
+    <td width="300">Game Engine</td>
+    <td>★★★☆☆</td>
+    <td width="400">Used in a high school team for game development; handled 2D well and tried some basic 3D.</td>
+	</tr>
+	<tr>
+		<td><img src="https://skillicons.dev/icons?i=git"></td>
+		<td>Git</td>
+    <td>Version Control Tool</td>
+    <td>★★★☆☆</td>
+    <td>Set up and managed environments with full GitHub integration, from initial setup to operations.</td>
+	</tr>
+  <tr>
+		<td><img src="https://skillicons.dev/icons?i=github"></td>
+		<td>GitHub</td>
+    <td>Code Hosting Platform</td>
+    <td>★★★☆☆</td>
+    <td>Contributed to team projects using all basic GitHub features, including issues, pull requests, and Actions.</td>
+	</tr>
+  <tr>
+		<td><img src="https://skillicons.dev/icons?i=aws"></td>
+		<td>AWS</td>
+    <td>Cloud Platform</td>
+    <td>★☆☆☆☆</td>
+    <td>Implemented a basic leaderboard for a game; experience limited to simple use cases.</td>
+	</tr>
+</table>
+
+<br>
+
+### Editors / Creation Tools
+
+<table>
+	<tr>
+		<th colspan="2">Skills</th>
+    <th>Description</th>
+    <th>Skill Levels</th>
+    <th>Experience</th>
+	</tr>
+	<tr>
+		<td width="60"><img src="https://github.com/user-attachments/assets/ce57df73-68f5-475b-a480-06e78589b591"></td>
+		<td width="150">GIMP</td>
+    <td width="300">Image Editing Tool</td>
+    <td>★★★☆☆</td>
+    <td width="400">Used for all image editing tasks.</td>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/user-attachments/assets/7e2683e0-9a18-4a1e-a9ad-f1279ce1003c"></td>
+		<td>Clip Studio Paint</td>
+    <td>Digital Illustration Tool</td>
+    <td>★★★★☆</td>
+    <td>Main tool for illustration; used for rough designs in development.</td>
+	</tr>
+  <tr>
+		<td><img src="https://github.com/user-attachments/assets/c498e855-1b91-4e90-95a9-d8aa96168e6c"></td>
+		<td>Aseprite</td>
+    <td>Pixel Art & Animation Tool</td>
+    <td>★★★★☆</td>
+    <td>Created 2D game assets.</td>
+	</tr>
+  <tr>
+		<td><img src="https://github.com/user-attachments/assets/2f0370b5-df7e-49bb-99f8-f5df1213bea4"></td>
+		<td>DaVinci Resolve</td>
+    <td>Video Editing & Color Grading Tool</td>
+    <td>★★☆☆☆</td>
+    <td>Made a surprise video in junior high school; now used for light video editing.</td>
+	</tr>
+  <tr>
+		<td><img src="https://skillicons.dev/icons?i=blender"></td>
+		<td>Blender</td>
+    <td>3D Modeling & Animation Tool</td>
+    <td>★☆☆☆☆</td>
+    <td>Still learning; completed a few tutorial-level projects.</td>
+	</tr>
+</table>
 
 # Contact
 - Discord：ryuta_c2
+- [Qiita：RyutaC2](https://qiita.com/RyutaC2)
