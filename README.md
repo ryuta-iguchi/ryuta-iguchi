@@ -1,15 +1,15 @@
 # Hi there 👋
 Hello! My name is Ryuta Iguchi. I was born in 2007 and am currently a high school student.
 
-I'm studying to become a front-end engineer in the future.
+I'm currently studying to become a front-end engineer.
 
-Right now, I'm leading a team to develop a game as a surprise graduation project at my high school. As the director, I handle everything from design and planning to coding and code review. Since all of our members are new to development, I also focus on supporting and mentoring the team, making sure everyone can grow together.
+Right now, I'm leading a team to develop a game as a surprise graduation project at my high school. As the director, I handle everything from design and planning to coding and code review. Since all our members are new to development, I focus on supporting and mentoring the team to help everyone grow together.
 
 After this project, I'm excited to start building web applications with TypeScript and to deepen my front-end skills even further!
 
 <br>
 
-# My Data 📚
+# My Skills & Activity 📚
 
 <div align="left">
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-clone-wqfq.vercel.app/api?username=ryuta-iguchi&layout=compact&exclude_repo=github-readme-stats-clone" />
@@ -19,7 +19,7 @@ After this project, I'm excited to start building web applications with TypeScri
 <br>
 
 <details>
-<summary><h3>🔎Click here for more details about my skills and experience.</h2></summary>
+<summary><h3>🔎Click here for more details about my skills and experience.</h3></summary>
 
 ### Programming Languages
 
@@ -35,7 +35,7 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td width="150">HTML</td>
     <td width="300">Markup for structuring web pages.</td>
     <td>★★☆☆☆</td>
-    <td width="400">Studied in junior high self-study and high school classes; learned only the basics.</td>
+    <td width="400">I learned the basics through self-study during junior high, and covered it a little more in high school classes.</td>
 	</tr>
 	<tr>
 		<td><img src="https://skillicons.dev/icons?i=css"></td>
@@ -56,14 +56,14 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td>GDScript</td>
     <td>Godot’s dedicated scripting language.</td>
     <td>★★★☆☆</td>
-    <td>Used for game development in high school; my first full-fledged programming language.</td>
+    <td>Used it for game development in high school; it was my first full-fledged programming language.</td>
 	</tr>
   <tr>
 		<td><img src="https://skillicons.dev/icons?i=py"></td>
 		<td>Python</td>
     <td>Versatile language for many applications.</td>
     <td>★☆☆☆☆</td>
-    <td>Briefly explored due to its similarity to GDScript, but never studied in depth.</td>
+    <td>Briefly explored because it's similar to GDScript, but I've never studied it in depth.</td>
 	</tr>
 </table>
 
@@ -89,14 +89,14 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td><img src="https://skillicons.dev/icons?i=git"></td>
 		<td>Git</td>
     <td>Version Control Tool</td>
-    <td>★★★☆☆</td>
+    <td>★★★★☆</td>
     <td>Set up and managed environments with full GitHub integration, from initial setup to operations.</td>
 	</tr>
   <tr>
 		<td><img src="https://skillicons.dev/icons?i=github"></td>
 		<td>GitHub</td>
     <td>Code Hosting Platform</td>
-    <td>★★★☆☆</td>
+    <td>★★★★☆</td>
     <td>Contributed to team projects using all basic GitHub features, including issues, pull requests, and Actions.</td>
 	</tr>
   <tr>
@@ -161,5 +161,5 @@ After this project, I'm excited to start building web applications with TypeScri
 
 # Contact
 - [GoogleForm](https://forms.gle/6rVsn7gVPNLz9UWC6)
-- [Qiita：RyutaC2](https://qiita.com/RyutaC2)
-- Discord：ryuta_c2
+- [Qiita: RyutaC2](https://qiita.com/RyutaC2)
+- Discord: ryuta_c2
