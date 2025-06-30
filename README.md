@@ -92,14 +92,14 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td>★★★★☆</td>
 		<td>Set up and managed environments with full GitHub integration, from initial setup to operations.</td>
 	</tr>
-<tr>
+	<tr>
 		<td><img src="https://skillicons.dev/icons?i=github"></td>
 		<td>GitHub</td>
 		<td>Code Hosting Platform</td>
 		<td>★★★★☆</td>
 		<td>Contributed to team projects using all basic GitHub features, including issues, pull requests, and Actions.</td>
 	</tr>
-  <tr>
+  	<tr>
 		<td><img src="https://skillicons.dev/icons?i=aws"></td>
 		<td>AWS</td>
 		<td>Cloud Platform</td>
