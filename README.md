@@ -9,7 +9,17 @@ After this project, I'm excited to start building web applications with TypeScri
 
 <br>
 
-# My Tech Stack 📚
+# My Data 📚
+
+<div align="left">
+  <img alt="Top Langs" height="179px" src="https://github-readme-stats-clone-wqfq.vercel.app/api?username=ryuta-iguchi&layout=compact&exclude_repo=github-readme-stats-clone" />
+  <img alt="github stats" height="178px" src="https://github-readme-stats-clone-wqfq.vercel.app/api/top-langs/?username=ryuta-iguchi&layout=compact&exclude_repo=github-readme-stats-clone" />
+</div>
+
+<br>
+
+<details>
+<summary><h3>🔎Click here for more details about my skills and experience.</h2></summary>
 
 ### Programming Languages
 
@@ -145,7 +155,11 @@ After this project, I'm excited to start building web applications with TypeScri
     <td>Still learning; completed a few tutorial-level projects.</td>
 	</tr>
 </table>
+</details>
+
+<br>
 
 # Contact
-- Discord：ryuta_c2
+- [GoogleForm](https://forms.gle/6rVsn7gVPNLz9UWC6)
 - [Qiita：RyutaC2](https://qiita.com/RyutaC2)
+- Discord：ryuta_c2
