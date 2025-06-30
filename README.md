@@ -26,44 +26,44 @@ After this project, I'm excited to start building web applications with TypeScri
 <table>
 	<tr>
 		<th colspan="2">Skills</th>
-    <th>Description</th>
-    <th>Skill Levels</th>
-    <th>Experience</th>
+		<th>Description</th>
+		<th>Skill Levels</th>
+		<th>Experience</th>
 	</tr>
 	<tr>
 		<td width="60"><img src="https://skillicons.dev/icons?i=html"></td>
 		<td width="150">HTML</td>
-    <td width="300">Markup for structuring web pages.</td>
-    <td>★★☆☆☆</td>
-    <td width="400">I learned the basics through self-study during junior high, and covered it a little more in high school classes.</td>
+		<td width="300">Markup for structuring web pages.</td>
+		<td>★★☆☆☆</td>
+		<td width="400">I learned the basics through self-study during junior high, and covered it a little more in high school classes.</td>
 	</tr>
 	<tr>
 		<td><img src="https://skillicons.dev/icons?i=css"></td>
 		<td>CSS</td>
-    <td>Stylesheet language for web design.</td>
-    <td>★☆☆☆☆</td>
-    <td>Learned basic styling alongside HTML, mainly at a surface level.</td>
+		<td>Stylesheet language for web design.</td>
+		<td>★☆☆☆☆</td>
+		<td>Learned basic styling alongside HTML, mainly at a surface level.</td>
 	</tr>
-  <tr>
+	<tr>
 		<td><img src="https://skillicons.dev/icons?i=lua"></td>
 		<td>Lua</td>
-    <td>Lightweight scripting for embedded use.</td>
-    <td>★☆☆☆☆</td>
-    <td>Used for in-game programming in Stormworks.</td>
+		<td>Lightweight scripting for embedded use.</td>
+		<td>★☆☆☆☆</td>
+		<td>Used for in-game programming in Stormworks.</td>
 	</tr>
-  <tr>
+	<tr>
 		<td><img src="https://github.com/user-attachments/assets/4fd6b754-08b6-4207-9c56-b7379d942a79"></td>
 		<td>GDScript</td>
-    <td>Godot’s dedicated scripting language.</td>
-    <td>★★★☆☆</td>
-    <td>Used it for game development in high school; it was my first full-fledged programming language.</td>
+		<td>Godot’s dedicated scripting language.</td>
+		<td>★★★☆☆</td>
+		<td>Used it for game development in high school; it was my first full-fledged programming language.</td>
 	</tr>
-  <tr>
+	<tr>
 		<td><img src="https://skillicons.dev/icons?i=py"></td>
 		<td>Python</td>
-    <td>Versatile language for many applications.</td>
-    <td>★☆☆☆☆</td>
-    <td>Briefly explored because it's similar to GDScript, but I've never studied it in depth.</td>
+		<td>Versatile language for many applications.</td>
+		<td>★☆☆☆☆</td>
+		<td>Briefly explored because it's similar to GDScript, but I've never studied it in depth.</td>
 	</tr>
 </table>
 
@@ -74,37 +74,37 @@ After this project, I'm excited to start building web applications with TypeScri
 <table>
 	<tr>
 		<th colspan="2">Skills</th>
-    <th>Description</th>
-    <th>Skill Levels</th>
-    <th>Experience</th>
+		<th>Description</th>
+		<th>Skill Levels</th>
+		<th>Experience</th>
 	</tr>
 	<tr>
 		<td width="60"><img src="https://github.com/user-attachments/assets/0ed2bae2-19c2-44b7-b606-f2ec908ebee5"></td>
 		<td width="150">Godot</td>
-    <td width="300">Game Engine</td>
-    <td>★★★☆☆</td>
-    <td width="400">Used in a high school team for game development; handled 2D well and tried some basic 3D.</td>
+		<td width="300">Game Engine</td>
+		<td>★★★☆☆</td>
+		<td width="400">Used in a high school team for game development; handled 2D well and tried some basic 3D.</td>
 	</tr>
 	<tr>
 		<td><img src="https://skillicons.dev/icons?i=git"></td>
 		<td>Git</td>
-    <td>Version Control Tool</td>
-    <td>★★★★☆</td>
-    <td>Set up and managed environments with full GitHub integration, from initial setup to operations.</td>
+		<td>Version Control Tool</td>
+		<td>★★★★☆</td>
+		<td>Set up and managed environments with full GitHub integration, from initial setup to operations.</td>
 	</tr>
-  <tr>
+<tr>
 		<td><img src="https://skillicons.dev/icons?i=github"></td>
 		<td>GitHub</td>
-    <td>Code Hosting Platform</td>
-    <td>★★★★☆</td>
-    <td>Contributed to team projects using all basic GitHub features, including issues, pull requests, and Actions.</td>
+		<td>Code Hosting Platform</td>
+		<td>★★★★☆</td>
+		<td>Contributed to team projects using all basic GitHub features, including issues, pull requests, and Actions.</td>
 	</tr>
   <tr>
 		<td><img src="https://skillicons.dev/icons?i=aws"></td>
 		<td>AWS</td>
-    <td>Cloud Platform</td>
-    <td>★☆☆☆☆</td>
-    <td>Implemented a basic leaderboard for a game; experience limited to simple use cases.</td>
+		<td>Cloud Platform</td>
+		<td>★☆☆☆☆</td>
+		<td>Implemented a basic leaderboard for a game; experience limited to simple use cases.</td>
 	</tr>
 </table>
 
@@ -115,44 +115,44 @@ After this project, I'm excited to start building web applications with TypeScri
 <table>
 	<tr>
 		<th colspan="2">Skills</th>
-    <th>Description</th>
-    <th>Skill Levels</th>
-    <th>Experience</th>
+		<th>Description</th>
+		<th>Skill Levels</th>
+		<th>Experience</th>
 	</tr>
 	<tr>
 		<td width="60"><img src="https://github.com/user-attachments/assets/ce57df73-68f5-475b-a480-06e78589b591"></td>
 		<td width="150">GIMP</td>
-    <td width="300">Image Editing Tool</td>
-    <td>★★★☆☆</td>
-    <td width="400">Used for all image editing tasks.</td>
+		<td width="300">Image Editing Tool</td>
+		<td>★★★☆☆</td>
+		<td width="400">Used for all image editing tasks.</td>
 	</tr>
 	<tr>
 		<td><img src="https://github.com/user-attachments/assets/7e2683e0-9a18-4a1e-a9ad-f1279ce1003c"></td>
 		<td>Clip Studio Paint</td>
-    <td>Digital Illustration Tool</td>
-    <td>★★★★☆</td>
-    <td>Main tool for illustration; used for rough designs in development.</td>
+		<td>Digital Illustration Tool</td>
+		<td>★★★★☆</td>
+		<td>Main tool for illustration; used for rough designs in development.</td>
 	</tr>
-  <tr>
+	<tr>
 		<td><img src="https://github.com/user-attachments/assets/c498e855-1b91-4e90-95a9-d8aa96168e6c"></td>
 		<td>Aseprite</td>
-    <td>Pixel Art & Animation Tool</td>
-    <td>★★★★☆</td>
-    <td>Created 2D game assets.</td>
+		<td>Pixel Art & Animation Tool</td>
+		<td>★★★★☆</td>
+		<td>Created 2D game assets.</td>
 	</tr>
-  <tr>
+	<tr>
 		<td><img src="https://github.com/user-attachments/assets/2f0370b5-df7e-49bb-99f8-f5df1213bea4"></td>
 		<td>DaVinci Resolve</td>
-    <td>Video Editing & Color Grading Tool</td>
-    <td>★★☆☆☆</td>
-    <td>Made a surprise video in junior high school; now used for light video editing.</td>
+		<td>Video Editing & Color Grading Tool</td>
+		<td>★★☆☆☆</td>
+		<td>Made a surprise video in junior high school; now used for light video editing.</td>
 	</tr>
-  <tr>
+	<tr>
 		<td><img src="https://skillicons.dev/icons?i=blender"></td>
 		<td>Blender</td>
-    <td>3D Modeling & Animation Tool</td>
-    <td>★☆☆☆☆</td>
-    <td>Still learning; completed a few tutorial-level projects.</td>
+		<td>3D Modeling & Animation Tool</td>
+		<td>★☆☆☆☆</td>
+		<td>Still learning; completed a few tutorial-level projects.</td>
 	</tr>
 </table>
 </details>
