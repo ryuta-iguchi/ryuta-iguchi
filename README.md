@@ -12,8 +12,8 @@ After this project, I'm excited to start building web applications with TypeScri
 # My Data 📚
 
 <div align="left">
-  <img alt="Top Langs" height="179px" src="https://github-readme-stats-clone-wqfq.vercel.app/api?username=ryuta-iguchi&layout=compact&exclude_repo=github-readme-stats-clone" />
-  <img alt="github stats" height="178px" src="https://github-readme-stats-clone-wqfq.vercel.app/api/top-langs/?username=ryuta-iguchi&layout=compact&exclude_repo=github-readme-stats-clone" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-clone-wqfq.vercel.app/api?username=ryuta-iguchi&layout=compact&exclude_repo=github-readme-stats-clone" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-clone-wqfq.vercel.app/api/top-langs/?username=ryuta-iguchi&layout=compact&exclude_repo=github-readme-stats-clone" />
 </div>
 
 <br>
