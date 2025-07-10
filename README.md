@@ -104,7 +104,7 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td>AWS</td>
 		<td>Cloud Platform</td>
 		<td>★☆☆☆☆</td>
-		<td>Implemented a basic leaderboard for a game; experience limited to simple use cases.</td>
+		<td>Implemented a basic leaderboard for a game; experience limited to simple use cases.Studying to get a qualification.</td>
 	</tr>
 </table>
 
