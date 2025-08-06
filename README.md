@@ -21,6 +21,18 @@ After this project, I'm excited to start building web applications with TypeScri
 <details>
 <summary><h3>🔎Click here for more details about my skills and experience.</h3></summary>
 
+
+
+|Star|Level|Explanation|
+|:--|:--|:--|
+|★☆☆☆☆|Beginner|Knows almost nothing; unfamiliar with terms and tools.|
+|★★☆☆☆|Novice|Has basic exposure; needs frequent guidance.|
+|★★★☆☆|Intermediate|Can handle common tasks alone; limited with complex ones.|
+|★★★★☆|Advanced|Works independently; solves problems and adds value.|
+|★★★★★|Professional|Highly skilled; leads, mentors, and drives results.|
+
+<br>
+
 ### Programming Languages
 
 <table>
@@ -41,7 +53,7 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td><img src="https://skillicons.dev/icons?i=css"></td>
 		<td>CSS</td>
 		<td>Stylesheet language for web design.</td>
-		<td>★☆☆☆☆</td>
+		<td>★★☆☆☆</td>
 		<td>Learned basic styling alongside HTML, mainly at a surface level.</td>
 	</tr>
 	<tr>
@@ -55,7 +67,7 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td><img src="https://github.com/user-attachments/assets/4fd6b754-08b6-4207-9c56-b7379d942a79"></td>
 		<td>GDScript</td>
 		<td>Godot’s dedicated scripting language.</td>
-		<td>★★★☆☆</td>
+		<td>★★★★☆</td>
 		<td>Used it for game development in high school; it was my first full-fledged programming language.</td>
 	</tr>
 	<tr>
@@ -82,7 +94,7 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td width="60"><img src="https://github.com/user-attachments/assets/0ed2bae2-19c2-44b7-b606-f2ec908ebee5"></td>
 		<td width="150">Godot</td>
 		<td width="300">Game Engine</td>
-		<td>★★★☆☆</td>
+		<td>★★★★☆</td>
 		<td width="400">Used in a high school team for game development; handled 2D well and tried some basic 3D.</td>
 	</tr>
 	<tr>
@@ -103,8 +115,15 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td><img src="https://skillicons.dev/icons?i=aws"></td>
 		<td>AWS</td>
 		<td>Cloud Platform</td>
-		<td>★☆☆☆☆</td>
+		<td>★★☆☆☆</td>
 		<td>Implemented a basic leaderboard for a game; experience limited to simple use cases.Studying to get a qualification.</td>
+	</tr>
+  	<tr>
+		<td><img src="https://skillicons.dev/icons?i=docker"></td>
+		<td>Docker</td>
+		<td>Tech to run apps consistently across environments.</td>
+		<td>★☆☆☆☆</td>
+		<td>I plan to use it in the next development.</td>
 	</tr>
 </table>
 
@@ -123,7 +142,7 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td width="60"><img src="https://github.com/user-attachments/assets/ce57df73-68f5-475b-a480-06e78589b591"></td>
 		<td width="150">GIMP</td>
 		<td width="300">Image Editing Tool</td>
-		<td>★★★☆☆</td>
+		<td>★★★★☆</td>
 		<td width="400">Used for all image editing tasks.</td>
 	</tr>
 	<tr>
@@ -144,7 +163,7 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td><img src="https://github.com/user-attachments/assets/2f0370b5-df7e-49bb-99f8-f5df1213bea4"></td>
 		<td>DaVinci Resolve</td>
 		<td>Video Editing & Color Grading Tool</td>
-		<td>★★☆☆☆</td>
+		<td>★★★☆☆</td>
 		<td>Made a surprise video in junior high school; now used for light video editing.</td>
 	</tr>
 	<tr>
@@ -162,4 +181,5 @@ After this project, I'm excited to start building web applications with TypeScri
 # Contact
 - [GoogleForm](https://forms.gle/6rVsn7gVPNLz9UWC6)
 - [Qiita: RyutaC2](https://qiita.com/RyutaC2)
+- [LinkedIn: ryuta iguchi](https://www.linkedin.com/in/%E9%9A%86%E5%A4%AA-%E4%BA%95%E5%8F%A3-57a501372/)
 - Discord: ryuta_c2
