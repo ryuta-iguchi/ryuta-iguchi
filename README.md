@@ -11,13 +11,6 @@ After this project, I'm excited to start building web applications with TypeScri
 
 # My Skills & Activity 📚
 
-<div align="left">
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats-clone-wqfq.vercel.app/api?username=ryuta-iguchi&layout=compact&exclude_repo=github-readme-stats-clone" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats-clone-wqfq.vercel.app/api/top-langs/?username=ryuta-iguchi&layout=compact&exclude_repo=github-readme-stats-clone" />
-</div>
-
-<br>
-
 <details>
 <summary><h3>🔎Click here for more details about my skills and experience.</h3></summary>
 
@@ -156,7 +149,7 @@ After this project, I'm excited to start building web applications with TypeScri
 		<td><img src="https://github.com/user-attachments/assets/c498e855-1b91-4e90-95a9-d8aa96168e6c"></td>
 		<td>Aseprite</td>
 		<td>Pixel Art & Animation Tool</td>
-		<td>★★★★☆</td>
+		<td>★★★★★</td>
 		<td>Created 2D game assets.</td>
 	</tr>
 	<tr>
