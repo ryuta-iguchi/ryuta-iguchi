@@ -15,6 +15,10 @@ WEBエンジニアになることを目指して勉強しています。
 
 # スキル & 実績 📚
 
+<!--
+[![RyutaC2's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/RyutaC2?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+-->
+
 <details>
 <summary><h3>🔎スキルの詳細についてはここをクリックしてください。</h3></summary>
 
