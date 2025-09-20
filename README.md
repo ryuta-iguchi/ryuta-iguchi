@@ -24,8 +24,6 @@ WEBエンジニアになることを目指して勉強しています。
 
 
 
-※あくまで自己評価である点に注意してください。<br>
-※プロフェッショナルで、現場で働いている人のレベルを想定しています。
 |星の数|レベル|説明|
 |:--|:--|:--|
 |★☆☆☆☆|完全初心者|ほとんど知識がなく、始めたて、もしくは少し触れた程度です。|
@@ -55,6 +53,18 @@ WEBエンジニアになることを目指して勉強しています。
 		<td>CSS</td>
 		<td>★★☆☆☆</td>
 		<td>表面的な部分を、HTMLと並列して学びました。</td>
+	</tr>
+	<tr>
+		<td><img src="https://skillicons.dev/icons?i=javascript" alt="CSSのアイコン"></td>
+		<td>JavaScript</td>
+		<td>★☆☆☆☆</td>
+		<td>次の開発プロジェクトで本格的に導入する予定で、今は勉強中です。</td>
+	</tr>
+	<tr>
+		<td><img src="https://skillicons.dev/icons?i=typescript" alt="CSSのアイコン"></td>
+		<td>TypeScript</td>
+		<td>★☆☆☆☆</td>
+		<td>次の開発プロジェクトで本格的に導入する予定で、今は勉強中です。</td>
 	</tr>
 	<tr>
 		<td><img src="https://skillicons.dev/icons?i=lua" alt="Luaのアイコン"></td>
