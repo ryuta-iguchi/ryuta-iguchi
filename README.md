@@ -2,22 +2,21 @@
 <details>
 <summary>日本語 🇯🇵</summary>
 
-# こんにちは！ 👋
-井口隆太といいます。2007年生まれで、現在高校生です。
-
-WEBエンジニアになることを目指して勉強しています。
-
-現在、趣味でゲームを開発をしています。高校の有志のメンバー11人で開発しており、自分はディレクターとして企画、デザイン、設計、コーディング、レビューまで、すべてを統括しています。メンバー全員が初心者なので、チーム全体で成長できるようにサポート・指導することに注力しつつ、自分自身もレベルアップできるように日々勉強しています！
-
-このプロジェクトが終わったら、Next.jsを使ったWEBアプリケーション開発に挑戦し、フロントエンド、バックエンド、サーバーなどに触れ、学び、スキルをさらに深めていきたいと思っています！
+# Ryuta Iguchi
+井口隆太といいます。2007年生まれで、現在高校生です。<br>
+WEBエンジニアになることを目指して勉強しており、現在は、趣味でゲーム開発をしつつ、様々な技術を勉強中です。<br>
+このプロジェクトが終わったら、Next.jsを使ったWEBアプリケーション開発に挑戦したいと思っています。
 
 <br>
 
-# スキル & 実績 📚
+## Knowledge & technologies
 
-<!--
-[![RyutaC2's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/RyutaC2?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
--->
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,godot,git,github,linux,docker,wsl,virtualbox)
+
+<br>
+
+### 勉強中のもの
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,nextjs,aws,postgres,arch,redhat)
 
 <details>
 <summary><h3>🔎スキルの詳細についてはここをクリックしてください。</h3></summary>
@@ -77,6 +76,12 @@ WEBエンジニアになることを目指して勉強しています。
 		<td>GDScript</td>
 		<td>★★★★☆</td>
 		<td>高校生で趣味としてゲーム開発をした時に利用しました。私にとって初めての本格的な言語でした。</td>
+	</tr>
+	<tr>
+		<td><img src="https://skillicons.dev/icons?i=py" alt="Pythonのアイコン"></td>
+		<td>Python</td>
+		<td>★☆☆☆☆</td>
+		<td>GDScriptと構造が似ており、興味を持ち軽く学んでみましたが、何か本格的に作ったことはありません。</td>
 	</tr>
 	<tr>
 		<td><img src="https://skillicons.dev/icons?i=py" alt="Pythonのアイコン"></td>
@@ -227,18 +232,13 @@ WEBエンジニアになることを目指して勉強しています。
 
 <br>
 
-# コンタクト
-### メールは公開していません。フォームよりご連絡ください。
-### [GoogleForm](https://forms.gle/6rVsn7gVPNLz9UWC6)
-
-<br>
-
-### 他アプリへのリンク
-[![GitLab: ryuta-iguchi](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/ryuta-iguchi)
-[![LinkedIn: ryuta iguchi](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/%E9%9A%86%E5%A4%AA-%E4%BA%95%E5%8F%A3-57a501372/)
-[![Discord: ryuta_c2](https://skillicons.dev/icons?i=discord)](https://discord.com/users/694391864832557067)
+## Contact
+[![GMail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](https://forms.gle/6rVsn7gVPNLz9UWC)
+[![GitLab](https://go-skill-icons.vercel.app/api/icons?i=gitlab)](https://gitlab.com/ryuta-iguchi)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/%E9%9A%86%E5%A4%AA-%E4%BA%95%E5%8F%A3-57a501372/)
+[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discord.com/users/694391864832557067)
 <a href="https://qiita.com/RyutaC2">
-	<img src="https://github.com/user-attachments/assets/b8adae66-7baf-47c4-bf91-3fea34a8f2c7" alt="Qiita: RyutaC2" width="50" />
+	<img width="50" height="50" alt="Qiita" src="https://github.com/user-attachments/assets/b8adae66-7baf-47c4-bf91-3fea34a8f2c7" />
 </a>
 
 <br><br>
